@@ -4,9 +4,9 @@ license = "GPL-v3.0"
 
 [[mods]]
 modId = "dumpeverything"
-version = "1.0-SNAPSHOT"
+version = "1.1-SNAPSHOT"
 displayName = "Dump Everything"
-#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+displayURL = "https://github.com/LeoDreamer2004/DumpEverything"
 logoFile = "icon.png"
 authors = "LeoDreamer"
 description = '''An easy mod which helps you to record everything in minecraft (and even mods!)

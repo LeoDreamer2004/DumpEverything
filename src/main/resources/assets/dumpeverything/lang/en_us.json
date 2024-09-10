@@ -1,6 +1,10 @@
 {
-  "commands.dump.start": "Dumping all items...",
-  "commands.dump.success": "Successfully dumped all items!",
-  "commands.dump.success.link": "Click to open.",
-  "commands.dump.failure": "Dump Failed. Please report the bug to the contributor."
+  "commands.dumpeverything.failure": "Dump Failed. Please report the bug to the contributor.",
+  "commands.dumpeverything.start": "Dumping all items...",
+  "commands.dumpeverything.success": "Successfully dumped!",
+  "commands.dumpeverything.success.link": "Click to open.",
+  "commands.dumpeverything.too_large": "The area is too large to select! (%s blocks)",
+  "item.dumpeverything.select_stick": "Select Stick",
+  "item.dumpeverything.select_stick.first": "Select the first position at %s",
+  "item.dumpeverything.select_stick.second": "Select the second position at %s"
 }
