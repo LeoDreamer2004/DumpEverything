@@ -1,0 +1,6 @@
+{
+  "commands.dump.start": "Dumping all items...",
+  "commands.dump.success": "Successfully dumped all items!",
+  "commands.dump.success.link": "Click to open.",
+  "commands.dump.failure": "Dump Failed. Please report the bug to the contributor."
+}

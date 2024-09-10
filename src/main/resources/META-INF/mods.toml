@@ -1,0 +1,21 @@
+modLoader = "javafml"
+loaderVersion = "[46, )"
+license = "GPL-v3.0"
+
+[[mods]]
+modId = "dumpeverything"
+version = "1.0-SNAPSHOT"
+displayName = "Dump Everything"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile = "icon.png"
+authors = "LeoDreamer"
+description = '''An easy mod which helps you to record everything in minecraft (and even mods!)
+The mod is designed to fit a Visual Studio Code extension to give completion of items/blocks/fluids identifiers and tags when coding with KubeJS.
+'''
+
+[[dependencies.dumpeverything]]
+modId = "forge"
+mandatory = true
+versionRange = "[46, )"
+ordering = "NONE"
+side = "BOTH"

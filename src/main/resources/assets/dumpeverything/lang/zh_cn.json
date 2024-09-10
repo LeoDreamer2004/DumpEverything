@@ -1,0 +1,6 @@
+{
+  "commands.dump.start": "开始导出物品...",
+  "commands.dump.success": "成功导出所有内容！",
+  "commands.dump.success.link": "点击打开",
+  "commands.dump.failure": "导出失败！请向作者反馈Bug。"
+}
